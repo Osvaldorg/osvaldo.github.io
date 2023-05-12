@@ -1,0 +1,12 @@
+@media (max-width:500px){
+  .video{
+    width: 300px;
+      /* background-color: black; */
+      /* grid-template: 
+      "header header" 200px
+      "navbar navbar" 150px
+      "main sidebar" 800px
+      "footer footer" 400px/250px auto; */
+  }
+
+}
